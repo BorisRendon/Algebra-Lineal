@@ -116,8 +116,6 @@ plt.legend(('F(x): 1 -x ','G(x): x-4 ','H(x): x+4 ','K(x): 6-x '),prop = {'size'
 plt.figure(figsize=(12,5))
 
 
-
-
 plt.show()
 plt.savefig("Graficas.png")
 
